@@ -1,2 +1,2 @@
-# FaceBook-C-
+# FaceBook
 Social Network created on c++
